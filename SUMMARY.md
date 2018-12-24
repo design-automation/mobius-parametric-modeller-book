@@ -19,14 +19,13 @@
   * [Elements](contents/chapter2/2.5.elements.md)
 
 * [Chapter 3](contents/chapter3/3.1.overview.md)
-  * [If/else](contents/chapter3/3.2.if.md)
-  * [Else-if](contents/chapter3/3.3.elseif.md)
-  * [For-each](contents/chapter3/3.4.foreach.md)
-  * [While](contents/chapter3/3.5.while.md)
+  * [Selection](contents/chapter3/3.2.selection.md)
+  * [Repetition](contents/chapter3/3.3.repetition.md)
 
 * [Chapter 4](contents/chapter4/4.1.overview.md)
   * [Points](contents/chapter4/4.2.points.md)
   * [Vectors](contents/chapter4/4.3.vectors.md)
+  * [Planes](contents/chapter4/4.4.planes.md)
 
 * [Chapter 5: Functions](contents/chapter5/5.1.overview.md)
   * [Basic](contents/chapter5/5.2.basic.md)
