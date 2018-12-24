@@ -1,6 +1,6 @@
 # Summary
 
-### Möbius Modeller Book
+### Möbius Parametric Modeller
 
 ---
 
