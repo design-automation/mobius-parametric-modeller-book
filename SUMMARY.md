@@ -10,10 +10,10 @@
 
 * [Chapter 1: Parametric Design Flow](contents/chapter1/1.1.overview.md)
   * [Flowchart](contents/chapter1/1.2.flowchart.md)
-  * [Start](contents/chapter1/1.3.start.md)
+  * ['Start' Node](contents/chapter1/1.3.start.md)
   * [Dashboard](contents/chapter1/1.4.dashboard.md)
   * [Modeller](contents/chapter1/1.5.modeller.md)
-  * [Merging](contents/chapter1/1.6.merging.md)
+  * [Diverging/Merging](contents/chapter1/1.6.splitmerge.md)
 
 * [Chapter 2: Basics](contents/chapter2/2.1.overview.md)
   * [Elements](contents/chapter2/2.2.elements.md)
