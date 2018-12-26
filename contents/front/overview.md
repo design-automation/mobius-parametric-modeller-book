@@ -1,7 +1,7 @@
 # Front
 
-This is an overview of Chapter 1. This is an overview of Chapter 1. This is an overview of Chapter 1. This is an overview of Chapter 1. This is an overview of Chapter 1. This is an overview of Chapter 1. This is an overview of Chapter 1. This is an overview of Chapter 1. This is an overview of Chapter 1. This is an overview of Chapter 1. 
+Introduction to Möbius Parametric Modeller
 
-## Test Heading Two
+## Header 2
 
 This is an overview of Chapter 1. This is an overview of Chapter 1. This is an overview of Chapter 1. This is an overview of Chapter 1. This is an overview of Chapter 1. This is an overview of Chapter 1. 

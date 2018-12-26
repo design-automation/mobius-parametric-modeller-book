@@ -12,7 +12,7 @@
   * [Flowchart](contents/chapter1/1.2.flowchart.md)
   * ['Start' Node](contents/chapter1/1.3.start.md)
   * [Dashboard](contents/chapter1/1.4.dashboard.md)
-  * [Modeller](contents/chapter1/1.5.modeller.md)
+  * [3D Viewer](contents/chapter1/1.5.3dviewer.md)
   * [Diverging/Merging](contents/chapter1/1.6.splitmerge.md)
 
 * [Chapter 2: Basics](contents/chapter2/2.1.overview.md)
