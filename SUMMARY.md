@@ -14,9 +14,8 @@
 
 * [Chapter 2](contents/chapter2/2.1.overview.md)
   * [Flowchart](contents/chapter2/2.2.flowchart.md)
-  * [Nodes](contents/chapter2/2.3.nodes.md)
-  * [Hierarchy](contents/chapter2/2.4.hierarchy.md)
-  * [Elements](contents/chapter2/2.5.elements.md)
+  * [Hierarchy](contents/chapter2/2.3.hierarchy.md)
+  * [Elements](contents/chapter2/2.4.elements.md)
 
 * [Chapter 3](contents/chapter3/3.1.overview.md)
   * [Selection](contents/chapter3/3.2.selection.md)
@@ -41,6 +40,7 @@
 
 * [Chapter 6](contents/chapter6/6.1.overview.md)
   * [Recursive Algorithms](contents/chapter6/6.2.recursivealgorithms.md)
+  * [Cyclic](contents/chapter6/6.3.cyclic.md)
 
 ---
 
