@@ -10,11 +10,10 @@
 
 * [Chapter 1: Mobius Interface](contents/chapter1/1.0.0.overview.md)
   * [Gallery](contents/chapter1/1.1.0.gallery.md)
-  * [Parametric Design Flow](contents/chapter1/1.2.0.PDF.md)
-    * [Dashboard](contents/chapter1/1.2.1.dashboard.md)
-    * [Flowchart](contents/chapter1/1.2.2.0.flowchart.md)
-      * ['Start' Node](contents/chapter1/1.2.2.1.start.md)
-      * [Diverging/Merging](contents/chapter1/1.2.2.2.splitmerge.md)
+    * [Dashboard](contents/chapter1/1.1.1.dashboard.md)
+  * [Parametric Design Flow](contents/chapter1/1.2.2.0.flowchart.md)
+    * ['Start' Node](contents/chapter1/1.2.2.1.start.md)
+    * [Diverging/Merging](contents/chapter1/1.2.2.2.splitmerge.md)
   * [3D Viewer](contents/chapter1/1.3.3dviewer.md)
   * [Attribute Table](contents/chapter1/1.4.attrViewer.md)
 
