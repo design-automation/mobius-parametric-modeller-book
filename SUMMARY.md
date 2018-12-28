@@ -28,6 +28,7 @@
   * [Mathematical Structures](contents/chapter3/3.2.mathstructure.md)
   * [User-Defined Geometry](contents/chapter3/3.3.userdefgeom.md)
   * [Derived Geometry](contents/chapter3/3.4.derivedgeom.md)
+  * [Attributes](contents/chapter3/3.5.attributes.md)
 
 * [Chapter 4: Functions](contents/chapter4/4.1.overview.md)
   * [Make](contents/chapter4/4.2.make.md)
