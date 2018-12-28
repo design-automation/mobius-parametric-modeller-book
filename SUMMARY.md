@@ -42,7 +42,7 @@
 
 * [Chapter 5: Advanced](contents/chapter5/5.1.overview.md)
   * [Nesting](contents/chapter5/5.2.nesting.md)
-  * [Recursive Algorithms](contents/chapter5/5.3.recursivealgorithms.md)
+  * [Recursion](contents/chapter5/5.3.recursion.md)
 
 ---
 
