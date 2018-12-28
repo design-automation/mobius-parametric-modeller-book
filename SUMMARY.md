@@ -25,7 +25,7 @@
   * [Control Statements](contents/chapter2/2.4.controlstatements.md)
 
 * [Chapter 3: Data Model](contents/chapter3/3.1.overview.md)
-  * [Mathematical Constructs](contents/chapter3/3.2.mathconstructs.md)
+  * [Mathematical Structures](contents/chapter3/3.2.mathstructure.md)
   * [User-Defined Geometry](contents/chapter3/3.3.userdefgeom.md)
   * [Derived Geometry](contents/chapter3/3.4.derivedgeom.md)
 
