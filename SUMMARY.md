@@ -41,8 +41,9 @@
   * [User](contents/chapter4/4.9.user.md)
 
 * [Chapter 5: Advanced](contents/chapter5/5.1.overview.md)
-  * [Nesting](contents/chapter5/5.2.nesting.md)
-  * [Recursion](contents/chapter5/5.3.recursion.md)
+  * [Inline](contents/chapter5/5.2.inline.md)
+  * [Nesting](contents/chapter5/5.3.nesting.md)
+  * [Recursion](contents/chapter5/5.4.recursion.md)
 
 ---
 
