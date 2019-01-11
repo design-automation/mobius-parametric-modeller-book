@@ -45,6 +45,15 @@
   * [Nesting](contents/chapter5/5.3.nesting.md)
   * [Recursion](contents/chapter5/5.4.recursion.md)
 
+* [Chapter 6: Examples](contents/chapter6/6.1.overview.md)
+  * [Example 1](contents/chapter6/6.2.example1.md)
+    * [Start Node](contents/chapter5/6.2.1.startnode.md)
+    * [Node 1](contents/chapter5/6.2.2.node1.md)
+    * [Node 2](contents/chapter5/6.2.3.node2.md)
+    * [Node 3a](contents/chapter5/6.2.4.node3a.md)
+    * [Node 3b](contents/chapter5/6.2.5.node3b.md)
+    * [Node 3c](contents/chapter5/6.2.6.node3c.md)
+
 ---
 
 * [Appendix](contents/back/appendix.md)
