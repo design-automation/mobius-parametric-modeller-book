@@ -47,12 +47,20 @@
 
 * [Chapter 6: Examples](contents/chapter6/6.1.overview.md)
   * [Example 1](contents/chapter6/6.2.0.example1.md)
-    * [Start Node](contents/chapter5/6.2.1.startnode.md)
-    * [Node 1](contents/chapter5/6.2.2.node1.md)
-    * [Node 2](contents/chapter5/6.2.3.node2.md)
-    * [Node 3a](contents/chapter5/6.2.4.node3a.md)
-    * [Node 3b](contents/chapter5/6.2.5.node3b.md)
-    * [Node 3c](contents/chapter5/6.2.6.node3c.md)
+    * [Start Node](contents/chapter6/6.2.1.startnode.md)
+    * [Node 1](contents/chapter6/6.2.2.node1.md)
+    * [Node 2](contents/chapter6/6.2.3.node2.md)
+    * [Node 3a](contents/chapter6/6.2.4.node3a.md)
+    * [Node 3b](contents/chapter6/6.2.5.node3b.md)
+    * [Node 3c](contents/chapter6/6.2.6.node3c.md)
+  * [Example 2](contents/chapter6/6.3.0.example2.md)
+    * [Start Node](contents/chapter6/6.3.1.startnode.md)
+    * [Node 1](contents/chapter6/6.3.2.node1.md)
+    * [Node 2](contents/chapter6/6.3.3.node2.md)
+    * [Node 3a](contents/chapter6/6.3.4.userfunction.md)
+    * [Node 3b](contents/chapter6/6.3.5.node3a.md)
+    * [Node 3c](contents/chapter6/6.3.6.node3b.md)
+    
 
 ---
 
