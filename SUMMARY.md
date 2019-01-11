@@ -57,10 +57,14 @@
     * [Start Node](contents/chapter6/6.3.1.startnode.md)
     * [Node 1](contents/chapter6/6.3.2.node1.md)
     * [Node 2](contents/chapter6/6.3.3.node2.md)
-    * [Node 3a](contents/chapter6/6.3.4.userfunction.md)
-    * [Node 3b](contents/chapter6/6.3.5.node3a.md)
-    * [Node 3c](contents/chapter6/6.3.6.node3b.md)
-    
+    * [User-Defined Function](contents/chapter6/6.3.4.userfunction.md)
+    * [Node 3a](contents/chapter6/6.3.5.node3a.md)
+    * [Node 3b](contents/chapter6/6.3.6.node3b.md)
+  * [Example 3](contents/chapter6/6.4.0.example3.md)
+    * [Start Node](contents/chapter6/6.4.1.startnode.md)
+    * [User-Defined Function](contents/chapter6/6.4.2.userfunction.md)
+    * [Node 1](contents/chapter6/6.4.3.node1.md)
+    * [Node 2](contents/chapter6/6.4.4.node2.md)
 
 ---
 
