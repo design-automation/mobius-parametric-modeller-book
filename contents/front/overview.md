@@ -1,6 +1,6 @@
 # Front
 
-Introduction to Möbius Parametric Modeller
+Introduction to Möbius Modeller
 
 ## Header 2
 

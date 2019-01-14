@@ -1,6 +1,6 @@
 # Summary
 
-### Möbius Parametric Modeller
+### Möbius Modeller
 
 ---
 
@@ -19,16 +19,16 @@
   * [Visualisation](contents/chapter1/1.3.3dviewer.md)
   * [Help and Debugging](contents/chapter1/1.4.helpNdebug.md)
 
-* [Chapter 2: Basics](contents/chapter2/2.1.overview.md)
-  * [Elements](contents/chapter2/2.2.elements.md)
-  * [Hierarchy](contents/chapter2/2.3.hierarchy.md)
-  * [Control Statements](contents/chapter2/2.4.controlstatements.md)
+* [Chapter 2: Data Model](contents/chapter2/2.1.overview.md)
+  * [User-Defined Geometry](contents/chapter2/2.2.userdefgeom.md)
+  * [Topology](contents/chapter2/2.3.topology.md)
+  * [Attributes](contents/chapter2/2.4.attributes.md)
+  * [Mathematical Structures](contents/chapter2/2.5.mathstructure.md)
 
-* [Chapter 3: Data Model](contents/chapter3/3.1.overview.md)
-  * [Mathematical Structures](contents/chapter3/3.2.mathstructure.md)
-  * [User-Defined Geometry](contents/chapter3/3.3.userdefgeom.md)
-  * [Derived Geometry](contents/chapter3/3.4.derivedgeom.md)
-  * [Attributes](contents/chapter3/3.5.attributes.md)
+* [Chapter 3: Basics](contents/chapter3/3.1.overview.md)
+  * [Elements](contents/chapter3/3.2.elements.md)
+  * [Hierarchy](contents/chapter3/3.3.hierarchy.md)
+  * [Control Statements](contents/chapter3/3.4.controlstatements.md)
 
 * [Chapter 4: Functions](contents/chapter4/4.1.overview.md)
   * [Make](contents/chapter4/4.2.make.md)
@@ -40,10 +40,8 @@
   * [List](contents/chapter4/4.8.list.md)
   * [User](contents/chapter4/4.9.user.md)
 
-* [Chapter 5: Advanced](contents/chapter5/5.1.overview.md)
+* [Chapter 5: Inline](contents/chapter5/5.1.overview.md)
   * [Inline](contents/chapter5/5.2.inline.md)
-  * [Nesting](contents/chapter5/5.3.nesting.md)
-  * [Recursion](contents/chapter5/5.4.recursion.md)
 
 * [Chapter 6: Examples](contents/chapter6/6.1.overview.md)
   * [Example 1](contents/chapter6/6.2.0.example1.md)
