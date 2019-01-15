@@ -39,7 +39,7 @@
   * [Util](contents/chapter4/06_util.md)
   * [Pattern](contents/chapter4/07_pattern.md)
   * [Virtual](contents/chapter4/08_virtual.md)
-  * [List](contents/chapter4/9_list.md)
+  * [List](contents/chapter4/09_list.md)
   * [User](contents/chapter4/4.11.user.md)
 
 * [Chapter 5: Inline](contents/chapter5/5.1.overview.md)
