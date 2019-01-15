@@ -1,6 +1,6 @@
 # Summary
 
-### Möbius Parametric Modeller
+### Möbius Modeller
 
 ---
 
@@ -19,48 +19,49 @@
   * [Visualisation](contents/chapter1/1.3.3dviewer.md)
   * [Help and Debugging](contents/chapter1/1.4.helpNdebug.md)
 
-* [Chapter 2: Basics](contents/chapter2/2.1.overview.md)
-  * [Elements](contents/chapter2/2.2.elements.md)
-  * [Hierarchy](contents/chapter2/2.3.hierarchy.md)
-  * [Control Statements](contents/chapter2/2.4.controlstatements.md)
+* [Chapter 2: Data Model](contents/chapter2/2.1.overview.md)
+  * [User-Defined Geometry](contents/chapter2/2.2.userdefgeom.md)
+  * [Topology](contents/chapter2/2.3.topology.md)
+  * [Attributes](contents/chapter2/2.4.attributes.md)
+  * [Mathematical Structures](contents/chapter2/2.5.mathstructure.md)
 
-* [Chapter 3: Data Model](contents/chapter3/3.1.overview.md)
-  * [Mathematical Structures](contents/chapter3/3.2.mathstructure.md)
-  * [User-Defined Geometry](contents/chapter3/3.3.userdefgeom.md)
-  * [Derived Geometry](contents/chapter3/3.4.derivedgeom.md)
-  * [Attributes](contents/chapter3/3.5.attributes.md)
+* [Chapter 3: Basics](contents/chapter3/3.1.overview.md)
+  * [Elements](contents/chapter3/3.2.elements.md)
+  * [Hierarchy](contents/chapter3/3.3.hierarchy.md)
+  * [Control Statements](contents/chapter3/3.4.controlstatements.md)
 
 * [Chapter 4: Functions](contents/chapter4/4.1.overview.md)
-  * [Make](contents/chapter4/4.2.make.md)
-  * [Attribute](contents/chapter4/4.3.attribute.md)
-  * [Intersect](contents/chapter4/4.4.intersect.md)
-  * [Modify](contents/chapter4/4.5.modify.md)
-  * [Calculate](contents/chapter4/4.6.calculate.md)
-  * [Vector](contents/chapter4/4.7.vector.md)
-  * [List](contents/chapter4/4.8.list.md)
-  * [User](contents/chapter4/4.9.user.md)
+  * [Query](contents/chapter4/01_query.md)
+  * [Make](contents/chapter4/02_make.md)
+  * [Modify](contents/chapter4/03_modify.md)
+  * [Isect](contents/chapter4/04_isect.md)
+  * [Calculate](contents/chapter4/05_calc.md)
+  * [Util](contents/chapter4/06_util.md)
+  * [Pattern](contents/chapter4/07_pattern.md)
+  * [Virtual](contents/chapter4/08_virtual.md)
+  * [List](contents/chapter4/09_list.md)
+  * [User](contents/chapter4/4.11.user.md)
 
-* [Chapter 5: Advanced](contents/chapter5/5.1.overview.md)
+* [Chapter 5: Inline](contents/chapter5/5.1.overview.md)
   * [Inline](contents/chapter5/5.2.inline.md)
-  * [Nesting](contents/chapter5/5.3.nesting.md)
-  * [Recursion](contents/chapter5/5.4.recursion.md)
 
 * [Chapter 6: Examples](contents/chapter6/6.1.overview.md)
   * [Example 1](contents/chapter6/6.2.0.example1.md)
     * [Start Node](contents/chapter6/6.2.1.startnode.md)
     * [Node 1](contents/chapter6/6.2.2.node1.md)
-    * [Node 2](contents/chapter6/6.2.3.node2.md)
-    * [Node 3a](contents/chapter6/6.2.4.node3a.md)
-    * [Node 3b](contents/chapter6/6.2.5.node3b.md)
-    * [Node 3c](contents/chapter6/6.2.6.node3c.md)
+    * [Node 2a](contents/chapter6/6.2.3.node2a.md)
+    * [Node 2b](contents/chapter6/6.2.4.node2b.md)
+    * [Node 2c](contents/chapter6/6.2.5.node2c.md)
   * [Example 2](contents/chapter6/6.3.0.example2.md)
     * [Start Node](contents/chapter6/6.3.1.startnode.md)
     * [Node 1](contents/chapter6/6.3.2.node1.md)
-    * [Node 2](contents/chapter6/6.3.3.node2.md)
-    * [Node 3a](contents/chapter6/6.3.4.userfunction.md)
-    * [Node 3b](contents/chapter6/6.3.5.node3a.md)
-    * [Node 3c](contents/chapter6/6.3.6.node3b.md)
-    
+    * [User-Defined Function](contents/chapter6/6.3.3.userfunction.md)
+    * [Node 2](contents/chapter6/6.3.4.node2.md)
+  * [Example 3](contents/chapter6/6.4.0.example3.md)
+    * [Start Node](contents/chapter6/6.4.1.startnode.md)
+    * [User-Defined Function](contents/chapter6/6.4.2.userfunction.md)
+    * [Node 1](contents/chapter6/6.4.3.node1.md)
+    * [Node 2](contents/chapter6/6.4.4.node2.md)
 
 ---
 

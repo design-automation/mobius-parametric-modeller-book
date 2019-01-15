@@ -1,3 +1,3 @@
-A book to learn Möbius Parametric Modeller
+A book to learn Möbius Modeller
 
-* [Online Book](https://design-automation.github.io/mobius-parametric-modeller-book/)
+* [Online Book](https://mobius-book.design-automation.net/)
