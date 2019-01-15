@@ -35,7 +35,7 @@
   * [Make](contents/chapter4/02_make.md)
   * [Modify](contents/chapter4/03_modify.md)
   * [Isect](contents/chapter4/04_isect.md)
-  * [Calculate](contents/chapter4/05_calculate.md)
+  * [Calculate](contents/chapter4/05_calc.md)
   * [Util](contents/chapter4/06_util.md)
   * [Pattern](contents/chapter4/07_pattern.md)
   * [Virtual](contents/chapter4/08_virtual.md)
