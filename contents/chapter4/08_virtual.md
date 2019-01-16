@@ -19,7 +19,7 @@ A plane is define by a list of three lists, as folows: [origin, x_vector, y_vect
 * **Parameters:**  
   * *origin:* Origin of plane: Position, Vertex, Point, or a list of three numbers  
   * *x_vec:* X vector of the plane: List of three numbers  
-  * *xy_vec:* A vector in the xy plane (parallel to teh x vector): List of three numbers  
+  * *xy_vec:* A vector in the xy plane (parallel to the x vector): List of three numbers  
 * **Returns:** : [[x,y,z],[x',y',z'],[x",y",z"]]  
 * **Examples:**  
   * virtual.Plane ([1,2,3],[4,3,2],[3,3,9])  
