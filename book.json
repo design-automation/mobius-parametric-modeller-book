@@ -4,11 +4,14 @@
 		"fontSize": 11,
 		"fontFamily": "Arial"
 	},
-	"plugins": ["chapter-fold", "chapter-headings", "image-captions", "fancybox"],
+	"plugins": ["chapter-fold", "chapter-headings", "image-captions", "fancybox", "pageload-analytics"],
 	"pluginsConfig": {
 		"theme-default": {
 		    "showLevel": true
-		}
+		},
+		"pageload-analytics": {
+            "token": "UA-131635446-1"
+        }
 	},
 	"styles": {
 		"website": "styles/website.css",
