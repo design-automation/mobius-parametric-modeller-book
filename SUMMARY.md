@@ -29,6 +29,8 @@
   * [Elements](contents/chapter3/3.2.elements.md)
   * [Hierarchy](contents/chapter3/3.3.hierarchy.md)
   * [Control Statements](contents/chapter3/3.4.controlstatements.md)
+  * [Syntax](contents/chapter3/3.5.syntax.md)
+  * [List](contents/chapter3/3.6.list.md)
 
 * [Chapter 4: Functions](contents/chapter4/4.1.overview.md)
   * [Query](contents/chapter4/01_query.md)
