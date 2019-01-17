@@ -18,6 +18,7 @@
     * ['End' Node](contents/chapter1/1.2.4.return.md)
   * [Visualisation](contents/chapter1/1.3.3dviewer.md)
   * [Help and Debugging](contents/chapter1/1.4.helpNdebug.md)
+  * [Function Creation](contents/chapter1/1.5.function.md)
 
 * [Chapter 2: Data Model](contents/chapter2/2.1.overview.md)
   * [User-Defined Geometry](contents/chapter2/2.2.userdefgeom.md)
