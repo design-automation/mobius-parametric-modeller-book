@@ -20,19 +20,19 @@
   * [Help and Debugging](contents/chapter1/1.5.helpNdebug.md)
   * [Function Creation](contents/chapter1/1.6.function.md)
 
-* [Chapter 2: Data Model](contents/chapter2/2.0.overview.md)
+* [Chapter 2: Geo-Info Data Model](contents/chapter2/2.0.overview.md)
   * [User-Defined Geometry](contents/chapter2/2.1.geometry.md)
   * [Topology](contents/chapter2/2.2.topology.md)
   * [Attributes](contents/chapter2/2.3.attributes.md)
 
-* [Chapter 3: Basics](contents/chapter3/3.1.overview.md)
+* [Chapter 3: Öbi Language](contents/chapter3/3.1.overview.md)
   * [Elements](contents/chapter3/3.2.elements.md)
   * [Hierarchy](contents/chapter3/3.3.hierarchy.md)
   * [Control Statements](contents/chapter3/3.4.controlstatements.md)
   * [Syntax](contents/chapter3/3.5.syntax.md)
   * [List](contents/chapter3/3.6.list.md)
 
-* [Chapter 4: Functions](contents/chapter4/4.1.overview.md)
+* [Chapter 4: Modelling Functions](contents/chapter4/4.1.overview.md)
   * [Mathematical Structures](contents/chapter4/4.2.mathstructure.md)
   * [Query](contents/chapter4/01_query.md)
   * [Make](contents/chapter4/02_make.md)
@@ -45,7 +45,7 @@
   * [List](contents/chapter4/09_list.md)
   * [User](contents/chapter4/4.11.user.md)
 
-* [Chapter 5: Inline](contents/chapter5/5.1.overview.md)
+* [Chapter 5: Inline Expressions](contents/chapter5/5.1.overview.md)
   * [Inline](contents/chapter5/5.2.inline.md)
 
 * [Chapter 6: Examples](contents/chapter6/6.1.overview.md)
