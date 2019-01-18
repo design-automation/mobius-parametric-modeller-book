@@ -21,7 +21,7 @@
   * [Function Creation](contents/chapter1/1.6.function.md)
 
 * [Chapter 2: Geo-Info Data Model](contents/chapter2/2.0.overview.md)
-  * [User-Defined Geometry](contents/chapter2/2.1.geometry.md)
+  * [Geometry](contents/chapter2/2.1.geometry.md)
   * [Topology](contents/chapter2/2.2.topology.md)
   * [Attributes](contents/chapter2/2.3.attributes.md)
 
