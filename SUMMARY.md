@@ -32,7 +32,7 @@
   * [List](contents/chapter3/3.6.list.md)
 
 * [Chapter 4: Query](contents/chapter4/4.1.overview.md)
-  * [Querying](contents/chapter4/4.2.querying.md)
+  * [query.Get](contents/chapter4/4.2.queryget.md)
 
 * [Chapter 5: Flowchart as Function](contents/chapter5/5.1.overview.md)
   * [Function Creation](contents/chapter5/5.2.function.md)
