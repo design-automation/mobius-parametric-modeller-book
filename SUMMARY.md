@@ -35,7 +35,7 @@
   * [Querying](contents/chapter4/4.2.querying.md)
 
 * [Chapter 5: Flowchart as Function](contents/chapter5/5.1.overview.md)
-  * [Function Creation](contents/chapter1/5.2.function.md)
+  * [Function Creation](contents/chapter5/5.2.function.md)
 
 * [Chapter 6: Examples](contents/chapter6/6.1.overview.md)
   * [Example 1](contents/chapter6/6.2.0.example1.md)
