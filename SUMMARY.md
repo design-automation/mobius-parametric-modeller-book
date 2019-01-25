@@ -18,7 +18,6 @@
     * ['End' Node](contents/chapter1/1.3.4.return.md)
   * [Visualisation](contents/chapter1/1.4.3dviewer.md)
   * [Help and Debugging](contents/chapter1/1.5.helpNdebug.md)
-  * [Function Creation](contents/chapter1/1.6.function.md)
 
 * [Chapter 2: Geo-Info Data Model](contents/chapter2/2.0.overview.md)
   * [Geometry](contents/chapter2/2.1.geometry.md)
@@ -32,21 +31,11 @@
   * [Syntax](contents/chapter3/3.5.syntax.md)
   * [List](contents/chapter3/3.6.list.md)
 
-* [Chapter 4: Modelling Functions](contents/chapter4/4.1.overview.md)
-  * [Mathematical Structures](contents/chapter4/4.2.mathstructure.md)
-  * [Query](contents/chapter4/01_query.md)
-  * [Make](contents/chapter4/02_make.md)
-  * [Modify](contents/chapter4/03_modify.md)
-  * [Isect](contents/chapter4/04_isect.md)
-  * [Calculate](contents/chapter4/05_calc.md)
-  * [Util](contents/chapter4/06_util.md)
-  * [Pattern](contents/chapter4/07_pattern.md)
-  * [Virtual](contents/chapter4/08_virtual.md)
-  * [List](contents/chapter4/09_list.md)
-  * [User](contents/chapter4/4.11.user.md)
+* [Chapter 4: Query](contents/chapter4/4.1.overview.md)
+  * [Querying](contents/chapter4/4.2.querying.md)
 
-* [Chapter 5: Inline Expressions](contents/chapter5/5.1.overview.md)
-  * [Inline](contents/chapter5/5.2.inline.md)
+* [Chapter 5: Flowchart as Function](contents/chapter5/5.1.overview.md)
+  * [Function Creation](contents/chapter1/5.2.function.md)
 
 * [Chapter 6: Examples](contents/chapter6/6.1.overview.md)
   * [Example 1](contents/chapter6/6.2.0.example1.md)
@@ -69,4 +58,17 @@
 ---
 
 * [Appendix](contents/back/appendix.md)
+  * [Functions](contents/back/001_overview.md)
+    * [Mathematical Structures](contents/back/000_mathstructure.md)
+    * [Query](contents/back/01_query.md)
+    * [Make](contents/back/02_make.md)
+    * [Modify](contents/back/03_modify.md)
+    * [Isect](contents/back/04_isect.md)
+    * [Calculate](contents/back/05_calc.md)
+    * [Util](contents/back/06_util.md)
+    * [Pattern](contents/back/07_pattern.md)
+    * [Virtual](contents/back/08_virtual.md)
+    * [List](contents/back/09_list.md)
+    * [User](contents/back/10_user.md)
+  * [Inline](contents/back/inline.md)
 

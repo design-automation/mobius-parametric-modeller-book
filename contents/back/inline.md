@@ -1,5 +1,7 @@
 # Inline
 
+Inline expressions are snippets of code that can be inserted into the input boxes in a procedure. To insert an inline expression, the user may click on the expression in the left sidebar to insert it in the selected argument. Alternatively, if the user is familiar with the expressions, they can also simply be typed in. 
+
 In the sidebar, the following are listed under 'Inline', and will be inserted into the argument box when you click on them. If you are already familiar with these, you can type them out instead of clicking on them in the sidebar. Mouse over each of the inline to understand what they do. 
 
 ## Globals
