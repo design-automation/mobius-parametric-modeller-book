@@ -15,23 +15,19 @@ _Query_ functions set, retrieve or modify attributes attached to objects.
 
 ## Make
 
-_Make_ functions create new geometry or apparent geometry. 
+_Make_ functions create new geometry. 
 
 * Position
-* PositionsArc
-* PositionsGrid
-* PositionsRect
 * Point
 * Polyline
 * Polygon
 * Collection
+* Copy
+* Hole
 * Loft
 * Extrude
-* Join
-* Copy
 * Divide
-* VectorVisible
-* PlaneVisible
+* Unweld
 
 ## Modify
 
@@ -42,13 +38,13 @@ _Modify_ functions alter the original geometry.
 * Scale
 * Mirror
 * XForm
+* Collection
 * Reverse
-* Weld
-* Unweld
+* Shift
 * Close
-* IsClosed
+* PushAttribs
 * Delete
-* AttribPromote
+* Keep
 
 ## Intersect (isect)
 
