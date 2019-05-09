@@ -7,7 +7,11 @@ The functions in Möbius Modeller are used within nodes and may be categorised i
 _Query_ functions set, retrieve or modify attributes attached to objects.
 
 * Get
+* Invert
 * Count
+* Neighbours
+* Sort
+* Type
 
 ## Make
 
