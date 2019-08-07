@@ -1,5 +1,8 @@
-A book to learn Möbius Modeller
+# Mobius Book {#mobiusbook}
 
-* [Online Book](https://mobius-book.design-automation.net/)
+A book to learn about Mobius Modeller
 
-Last updated: January 16, 2019
+*   [Mobius Modeller](https://mobius.design-automation.net/gallery)
+*   [Forum](https://mobius-forum.design-automation.net/)
+
+Last updated: 
