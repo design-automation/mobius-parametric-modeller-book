@@ -8,6 +8,6 @@ This statement is used with an [If](If_Elseif_and_Else.md) statement within the 
 ###### Example
 In 9 rounds of sum adding, in each round 10 is added to a number from the range of 1 to 9; when the sum is bigger or equal to 15, another 10 is added to sum to obtain a new sum.
 
-![](../assets/chapter_3_assets/Continue.png)
+![](../../assets/chapter_3_assets/Continue.png)
 
 

@@ -2,7 +2,7 @@
 
 Assignment statements are statements that define a variable with a [value](Values.md) or an [expression](Expression.md); successive assignment statements for the same variable results in the second statement overriding the first.
 
-![Assignment Statements](../assets/chapter_3_assets/AssignmentStatement.png)
+![Assignment Statements](../../assets/chapter_3_assets/AssignmentStatement.png)
 
 >See [Overwriting](Rules.md) <br>
 

@@ -13,7 +13,7 @@ A polygon is an [object](Objects.md) defined by a [list](..\chapter_3_procedures
 
 For each polygon, there is a front and back surface. A typical practice when modelling is to show the front surface on the exterior. By default, the front face is white while the back face is grey; however, users may customise the display colours of the surface in the [3D Viewer Settings](..\chapter_1_mobius_interface\3D_viewer_settings.md). 
 
-![Front surface vs back surface](../assets/chapter_2_assets/Front and Back Surface.png)
+![Front surface vs back surface](../../assets/chapter_2_assets/Front and Back Surface.png)
 
 > See [Changing the Display Colour of Front and Back Surfaces](..\chapter_1_mobius_interface\3D_viewer_settings.md)<br>
 > See [Common Misconceptions and Workflow Mistakes: Order of Items in Lists](..\chapter_4_bugs_and_debugging\Order_of_Items_in_Lists.md) <br>

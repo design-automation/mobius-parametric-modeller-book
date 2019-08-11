@@ -64,29 +64,29 @@ When generating entities from a list of [positions](../chapter_2_geo-info_data_m
     <td rowspan="3">Slice</td>
     <td>sublist=[starting index: ending index]</td>
     <td>The sublist returned will begin with the item with starting index and stop right before the item with ending index. </td>
-    <td><img src ="../assets/chapter_3_assets/List_1.png"></img><br> Create a sublist from list[2] to list[4].</td>
+    <td><img src ="../../assets/chapter_3_assets/List_1.png"></img><br> Create a sublist from list[2] to list[4].</td>
     </tr>
     <tr>
     <td>sublist=starting index:]</td>
     <td>When the ending index is left blank, the Console will return a sublist that stops at the very last item of the parent list.</td>
-    <td><img src ="../assets/chapter_3_assets/List_2.png"></img><br>Create a sublist from list[1] to the last item in list.</td>
+    <td><img src ="../../assets/chapter_3_assets/List_2.png"></img><br>Create a sublist from list[1] to the last item in list.</td>
     </tr>
     <tr>
     <td>sublist=[:ending index]</td>
     <td>When the starting index is left blank, the Console will return a sublist that begin with the very first item of the parent list.</td>
-    <td><img src ="../assets/chapter_3_assets/List_3.png"</img><br> Create a sublist from the first item in list to the list[1].
+    <td><img src ="../../assets/chapter_3_assets/List_3.png"</img><br> Create a sublist from the first item in list to the list[1].
     </tr>
     <tr>
     <td>Copy</td>
     <td>sublist=[:]</td>
     <td>When both the starting index and the ending index are left blank, the Console will return the full parent list.</td>
-    <td><img src="../assets/chapter_3_assets/List_4.png"</img><br>Create a sublist with all items from the parent list.</td>
+    <td><img src="../../assets/chapter_3_assets/List_4.png"</img><br>Create a sublist with all items from the parent list.</td>
     </tr>
     <tr>
     <td>Mathematical Operation</td>
     <td>NA</td>
     <td>Lists are not numerals, they cannot be operated on mathematically.</td>
-    <td><img src="../assets/chapter_3_assets/List_5.png"</img><br>Strings are returned when 2 lists are added</td>
+    <td><img src="../../assets/chapter_3_assets/List_5.png"</img><br>Strings are returned when 2 lists are added</td>
     </table>
     
 

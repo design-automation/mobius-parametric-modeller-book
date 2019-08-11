@@ -38,7 +38,7 @@ Coordinates attributes are used and referenced in [functions](..\chapter_3_proce
 
 To use the coordinates of an entity, users will have to reference it in this manner: entity@xyz
 
-![Referencing Coordinates](../assets/chapter_2_assets/Coordinate Referencing 1.png)
+![Referencing Coordinates](../../assets/chapter_2_assets/Coordinate Referencing 1.png)
 
 To reference a specific X, Y or Z coordinate of an entity, users will have to follow the rules of [list indexing](..\chapter_3_procedures\List.md) and reference it in this manner:
 
@@ -48,7 +48,7 @@ To reference a specific X, Y or Z coordinate of an entity, users will have to fo
 | Y | entity@xyz[1] |
 | Z | entity@xyz[2] |
 
-![Referencing a Selected Coordinate](../assets/chapter_2_assets/Coordinate Referencing 2.png)
+![Referencing a Selected Coordinate](../../assets/chapter_2_assets/Coordinate Referencing 2.png)
 
 > See [Referencing](/chapter_3_procedures/Rules.md) <br>
 > For more Attributes related functions, see [Attribute Functions](..\chapter_3_procedures\AttributeFunctions.md)

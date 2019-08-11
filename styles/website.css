@@ -5,3 +5,7 @@
     margin-right: auto;
     width: 50%;
 }
+
+.chapter a b {
+    display: none;
+}

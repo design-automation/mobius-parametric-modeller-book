@@ -5,8 +5,8 @@ An error occurred as a result of having stray spaces or using [reserved keywords
 ######Example 1
 | Error Message | ![Syntax Error Error Message 1.png](/assets/chapter_4_assets/Syntax Error Error Message 1.png)<br> |
 | --- | --- |
-| Bug example ✘ | Source of error: `import` is a reserved keyword.<br>![Syntax Error Bug Example 1.png](../assets/chapter_4_assets/Syntax Error Bug Example 1.png)<br> |
-| Correction ✔ | Solution: change the [variable name](../chapter_3_procedures/Assignment_Statement.md).<br>![Syntax Error Correction 1.png](../assets/chapter_4_assets/Syntax Error Correction 1.png)<br> |
+| Bug example ✘ | Source of error: `import` is a reserved keyword.<br>![Syntax Error Bug Example 1.png](../../assets/chapter_4_assets/Syntax Error Bug Example 1.png)<br> |
+| Correction ✔ | Solution: change the [variable name](../chapter_3_procedures/Assignment_Statement.md).<br>![Syntax Error Correction 1.png](../../assets/chapter_4_assets/Syntax Error Correction 1.png)<br> |
 
 <br>
 

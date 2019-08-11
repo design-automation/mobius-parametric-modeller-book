@@ -17,9 +17,9 @@ Users can assign different colours to [entities](../chapter_2_geo-info_data_mode
 
 The desired colour has the following code: 131, 131, 131 on a RGB colour picker. Divide each number by 255 and input it in Mobius in the form of a list [0.7, 0.7, 0.7].  
 
-![Colour Code on the RGB Colour Picker](../assets/chapter_3_assets/Render1.png)
+![Colour Code on the RGB Colour Picker](../../assets/chapter_3_assets/Render1.png)
 
-![Colour attribute in Mobius](../assets/chapter_3_assets/Render2.png)
+![Colour attribute in Mobius](../../assets/chapter_3_assets/Render2.png)
 
 <br>
 #### Render Functions
@@ -28,8 +28,8 @@ Users will have to create [reserved attribute](../chapter_2_geo-info_data_model/
 <br>
 ##### Glass
 Users can make adjustments to the material’s opacity value.
-![Glass Example](../assets/chapter_3_assets/Glass.png)
+![Glass Example](../../assets/chapter_3_assets/Glass.png)
 
 ##### Basic Material
 Similar to Glass. However, it provides the option to change colour.
-![Basic Material Example](../assets/chapter_3_assets/Basic Material.png)
+![Basic Material Example](../../assets/chapter_3_assets/Basic Material.png)

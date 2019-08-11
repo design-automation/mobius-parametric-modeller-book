@@ -17,7 +17,7 @@ To attribute an entity or multiple entities:
 1.  Write ID/variable name@attributename in the [variable declaration box](../chapter_1_mobius_interface/procedure_line.md).
 2.  In the variable input box, enter the value of the attribute. The value may be a number, a [string](..\chapter_3_procedures\Values.md) or a flat [list](..\chapter_3_procedures\List.md).
 
-![Attribute name _type_ created for the polygons with an assigned value of "floor" can be found in the last column under the Polygons Tab](../assets/chapter_2_assets/Entity Attributes.jpg)
+![Attribute name _type_ created for the polygons with an assigned value of "floor" can be found in the last column under the Polygons Tab](../../assets/chapter_2_assets/Entity Attributes.jpg)
 
 <br>
 #### Global Attributes 
@@ -26,7 +26,7 @@ Global attributes are [attributes](Attributes.md) that are given to the entire m
 
 Just like entities attributes, global attributes can be [referenced](../chapter_3_procedures/Rules.md) within the same node in which the attributes are created and in the [downstream](/chapter_3_procedures/Rules.md) nodes that are linked in [series with the node](../chapter_1_mobius_interface/nodes.md). However, it can be referenced using directly `@attributename`  instead of using [query.Get](/chapter_3_procedures/QueryGet.md) function.
 
-![Referencing a Global Attribute](..\assets\chapter_2_assets\Global_Attributes.png)
+![Referencing a Global Attribute](..\..\assets\chapter_2_assets\Global_Attributes.png)
 
 <br>
 To assign a global attribute to the model:
@@ -34,6 +34,6 @@ To assign a global attribute to the model:
 1.  Write@attributename in the [variable declaration box](../chapter_1_mobius_interface/procedure_line.md).
 2.  In the [variable input box](../chapter_3_procedures/Inputs.md), enter the [value](../chapter_3_procedures/Values.md) of the attribute. The value may be a number, a [string](../chapter_3_procedures/Values.md) or a [list](../chapter_3_procedures/List.md).
 
-![Global Attributes and the Attribute Table](..\assets\chapter_2_assets\Global Attributes.jpg)
+![Global Attributes and the Attribute Table](..\..\assets\chapter_2_assets\Global Attributes.jpg)
 
 > See [Referencing](..\chapter_3_procedures\Rules.md)

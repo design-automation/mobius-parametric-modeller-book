@@ -17,7 +17,7 @@ Every position in the [3D Viewer](..\chapter_1_mobius_interface\3D_view.md) in M
 
 [Coordinates attributes](Default_Attributes.md) are automatically generated in [Attribute Table](..\chapter_1_mobius_interface\3D_view.md) when entities are created in the 3D Viewer. However, as coordinates are not [entities](Entities.md), they will not be shown in the Attribute Table if entities are not created; and to visualise coordinates in the 3D Viewer, they have to be made into positions first.
 
-![Representation of coordinates in the Attribute Table](../assets/chapter_2_assets/Coordinates.png)
+![Representation of coordinates in the Attribute Table](../../assets/chapter_2_assets/Coordinates.png)
 
 #### Sharing Positions and Unwelding
 
@@ -25,6 +25,6 @@ When multiple objects share the same positions, modifying one object could mean 
 
 When an object needs to be moved without affecting other [objects](Objects.md) sharing the same positions, it needs to be unwelded using make.Unweld function. Unwelding creates a duplicate of the shared positions (by creating new positions at that same location). As a result, the positions for the different objects will be different, even though they are at the same location.
 
-![Intended model: positions are unwelded](../assets/chapter_2_assets/Sharing Positions and Unwelding 1.png)
+![Intended model: positions are unwelded](../../assets/chapter_2_assets/Sharing Positions and Unwelding 1.png)
 
-![Unintended model: positions are not unwelded](../assets/chapter_2_assets/Sharing Positions and Unwelding 2.png)
+![Unintended model: positions are not unwelded](../../assets/chapter_2_assets/Sharing Positions and Unwelding 2.png)

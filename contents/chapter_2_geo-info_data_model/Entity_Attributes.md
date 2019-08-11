@@ -10,7 +10,7 @@ To attribute an entity or multiple entities:
 2.  In the variable input box, enter the value of the attribute. The value may be a number, a [string](..\chapter_3_procedures\Strings.md) or a flat [list](..\chapter_3_procedures\List_Depth.md).
 
 
-![Entity Attributes and the Attribute Table](../assets/chapter_2_assets/Entity Attributes.jpg)
+![Entity Attributes and the Attribute Table](../../assets/chapter_2_assets/Entity Attributes.jpg)
 
 Attribute name _type_ created for the polygons with an assigned value of "floor" can be found in the last column under the Polygons Tab.
 

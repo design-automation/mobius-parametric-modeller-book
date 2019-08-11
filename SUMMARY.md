@@ -1,7 +1,6 @@
 # Summary
 
 * [Mobius Book](README.md)
-* [Introduction](introduction\README.md)
 * [Chapter 1: Möbius Interface](contents\chapter_1_mobius_interface\README.md)
   * [Left Viewport](contents\chapter_1_mobius_interface\left_viewport.md)
       * [Gallery](contents\chapter_1_mobius_interface\gallery.md)

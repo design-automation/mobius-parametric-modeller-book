@@ -1,6 +1,6 @@
 ### Query
 
-![Query.Get function and its dropdown menu](../assets/chapter_3_assets/querygetfinal.png)
+![Query.Get function and its dropdown menu](../../assets/chapter_3_assets/querygetfinal.png)
 
 All query functions return a list of entities. The result will always be a list of entities, even if there is only one entity. In the case where the user only requires one entity, please remember to get the first item in the list. For example, query.get pgon = ["pg2"]. Hence, to acquire the polygon, please write it as such: pgon[0].<br>
 
@@ -12,8 +12,8 @@ The query.Get function returns a list of [entities](../chapter_2_geo-info_data_m
 
 | Dropdown/ Input Box | Description |
 | -- | -- |
-| ![](../assets/chapter_3_assets/Query1.png)<br>| The first dropdown menu allows users to specify the type of entity that they are searching for. |
-| ![](../assets/chapter_3_assets/Query2.png)<br>| The `entities` argument box is for defining the boundary of search, or what the users are searching amongst. The users may specify variable(s) or `null` if they intend to search the entire model without restricting the search to any boundary. |
+| ![](../../assets/chapter_3_assets/Query1.png)<br>| The first dropdown menu allows users to specify the type of entity that they are searching for. |
+| ![](../../assets/chapter_3_assets/Query2.png)<br>| The `entities` argument box is for defining the boundary of search, or what the users are searching amongst. The users may specify variable(s) or `null` if they intend to search the entire model without restricting the search to any boundary. |
 
 <br>
 ###### Query.Filter
@@ -74,11 +74,11 @@ The function uses the following parameter: <br>
 <br>
 ###### Examples
 
-![Return all positions](../assets/chapter_3_assets/queryGet2.png)
+![Return all positions](../../assets/chapter_3_assets/queryGet2.png)
 
-![Return all the positions in variable grip_ps](../assets/chapter_3_assets/queryGet3.png)
+![Return all the positions in variable grip_ps](../../assets/chapter_3_assets/queryGet3.png)
 
-![Return all the positions in variable grip_ps that have coordinate x > 0](../assets/chapter_3_assets/queryGet4.png)
+![Return all the positions in variable grip_ps that have coordinate x > 0](../../assets/chapter_3_assets/queryGet4.png)
 
 <br>
 #### Inline Query Expression

@@ -4,4 +4,4 @@ The Geo-Info (GI) data model is a 3D Geospatial Information model that stores [e
 
 The GI model allows for different types of entities to be defined using a data structure consisting of three main layers: [positions](Position.md), [objects](Objects.md), and [collections](Collection.md).
 
-![Conceptual Diagram of the Data Structure](../assets/chapter_2_assets/Geo-Info Data Model.png)
+![Conceptual Diagram of the Data Structure](../../assets/chapter_2_assets/Geo-Info Data Model.png)

@@ -7,4 +7,4 @@ The Procedure Menu contains [statements](..\chapter_3_procedures\Statements.md) 
 
 Tooltip appears when the cursor hovers over certain [functions](..\chapter_3_procedures\Functions.md) in the Procedure Menu. It contains a description of what the function does and/or its [parameters](parameters.md) and [returns](execute.md).
 
-![](..\assets\chapter_1_assets\Tooltip.jpg)
+![](..\..\assets\chapter_1_assets\Tooltip.jpg)

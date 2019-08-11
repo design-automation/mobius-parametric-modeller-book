@@ -9,6 +9,6 @@ To assign a global attribute to the model:
 1.  Write@attributename in the [variable declaration box](../chapter_1_mobius_interface/procedure_line.md).
 2.  In the [variable input box](../chapter_3_procedures/Inputs.md), enter the [value](../chapter_3_procedures/Values.md) of the attribute. The value may be a number, a [string](../chapter_3_procedures/Strings.md) or a flat [list](../chapter_3_procedures/List.md).
 
-![Global Attributes and the Attribute Table](..\assets\chapter_2_assets\Global Attributes.jpg)
+![Global Attributes and the Attribute Table](..\..\assets\chapter_2_assets\Global Attributes.jpg)
 
 > For more Attributes related functions, see [Attribute Functions](..\chapter_3_procedures\AttributeFunctions.md)

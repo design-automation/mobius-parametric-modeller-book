@@ -23,12 +23,12 @@ The For function can operate on [elements](Assignment_Statement.md) in any [list
 <br>
 ###### Example 1. For item in a list of entities 
 Each pgon in a list of pgons are cut with a copied and scaled down version of itself. <br><br>
-![Application of For 1](../assets/chapter_3_assets/Application of For1.png)
+![Application of For 1](../../assets/chapter_3_assets/Application of For1.png)
 
 <br>
 ###### Example 2. For item in a list of numbers
 The list of number, range(0, 10) is used to generate 10 copies of pgon that are equally spaced out, as each of them is moved a distance ranging from 0 unit to 45 units from pgon.<br><br>
-![Application of For 2](../assets/chapter_3_assets/Application of For2.png)
+![Application of For 2](../../assets/chapter_3_assets/Application of For2.png)
 
 <br>
 #### While
@@ -50,4 +50,4 @@ Loop(s) can be created within a loop. There is no limit to the number of loops t
 
 To understand a block of For loop like this, learners are encouraged to take time to use the [terminate](Terminate.md) function and print the returns from each statement to understand how the [Procedure Lines](../chapter_1_mobius_interface/procedure_line.md) work with one another in the [Procedure Space](../chapter_1_mobius_interface/procedure_space.md).
 
-![a For Loop within a For Loop](../assets/chapter_3_assets/Foreach Loops within a Foreach Loop.jpg)
+![a For Loop within a For Loop](../../assets/chapter_3_assets/Foreach Loops within a Foreach Loop.jpg)

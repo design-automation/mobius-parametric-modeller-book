@@ -4,4 +4,4 @@
 2.  make.Polygon using the above positions.
 3.  Extrude the [polygon](../chapter_2_geo-info_data_model/Polygon.md) and a simple volume is formed.
 
-![Creating a Simple, Single Volume](../assets/chapter_5_assets/Creating a Simple, Single Volume.jpg)
+![Creating a Simple, Single Volume](../../assets/chapter_5_assets/Creating a Simple, Single Volume.jpg)

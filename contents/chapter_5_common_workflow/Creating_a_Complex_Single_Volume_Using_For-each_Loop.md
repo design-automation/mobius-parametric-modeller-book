@@ -7,4 +7,4 @@ Creating a twisted volume using the [For](../chapter_3_procedures/Loops.md) loop
 3.  Extrude the [polyline](../chapter_2_geo-info_data_model/Polyline.md) in the form of ribs and loft to achieve a continuous surface.
 4.  Use a For statement to rotate each extrusion by increasing angle.
 
-![Creating a Complex, Single Volume Using For Loop](../assets/chapter_5_assets/Creating a Complex, Single Volume Using For Loop.jpg)
+![Creating a Complex, Single Volume Using For Loop](../../assets/chapter_5_assets/Creating a Complex, Single Volume Using For Loop.jpg)

@@ -1,6 +1,6 @@
 ### Execute {#execute}
 
-![Execute button](..\assets\chapter_1_assets\Execute.png)
+![Execute button](..\..\assets\chapter_1_assets\Execute.png)
 
 
 Execution is the process by which Mobius runs the all the active codes in the [flowchart](flowchart.md). It updates the model in the [3D Viewer](3D_view.md), the returns in the [Console](console.md) and the [attributes](..\chapter_2_geo-info_data_model\Attributes.md) in the [Attribute Table](3D_view.md).<br>
@@ -18,7 +18,7 @@ Returns refer to the outputs of one or more lines of [procedures](procedure.md).
 
 If the line of code being executed is a [function](..\chapter_3_procedures\Functions.md), its type of returns will correspond to the description under Returns in the [Help Viewer](help_viewer.md) of the function.<br>
 
-![Returns indicated in the Help Viewer](..\assets\chapter_1_assets\ExecuteReturn.png)
+![Returns indicated in the Help Viewer](..\..\assets\chapter_1_assets\ExecuteReturn.png)
 
 <br>
 ##### Returns of an Assignment Statement
@@ -27,8 +27,8 @@ The returns of an [assignment statement](..\chapter_3_procedures\Assignment_Stat
 
 | Feature | Example  |
 | :---: | --- |
-| Statement | <br>![ReturnStatement](..\assets\chapter_1_assets\ReturnStatement.png)<br> |
-| Console | <br>![ReturnPrint](..\assets\chapter_1_assets\ReturnPrint.png)<br> |
+| Statement | <br>![ReturnStatement](..\..\assets\chapter_1_assets\ReturnStatement.png)<br> |
+| Console | <br>![ReturnPrint](..\..\assets\chapter_1_assets\ReturnPrint.png)<br> |
 
 <br>
 ##### Returns of a Function
@@ -40,27 +40,27 @@ The returns of a [function](..\chapter_3_procedures\Functions.md) can be printed
 
 | Feature | Example  |
 | :---: | --- |
-| Function | <br>![Function](..\assets\chapter_1_assets\Function.png) <br> |
-| Console | <br>![Console](..\assets\chapter_1_assets\Console.png)<br> |
-| 3D Viewer | <br>![3DViewer](..\assets\chapter_1_assets\3DViewer.png)<br> |
-| Attribute Table | <br>![Attribute](..\assets\chapter_1_assets\Table.png)<br> |
+| Function | <br>![Function](..\..\assets\chapter_1_assets\Function.png) <br> |
+| Console | <br>![Console](..\..\assets\chapter_1_assets\Console.png)<br> |
+| 3D Viewer | <br>![3DViewer](..\..\assets\chapter_1_assets\3DViewer.png)<br> |
+| Attribute Table | <br>![Attribute](..\..\assets\chapter_1_assets\Table.png)<br> |
 
 <br>
 ###### Example 2. Printing make.Polygon returns the polygon that is created.<br><br>
 
 | Feature | Example  |
 | :---: | --- |
-| Function | <br>![Function](..\assets\chapter_1_assets\FunctionPgon.png) <br> |
-| Console | <br>![Console](..\assets\chapter_1_assets\ConsolePgon.png)<br> |
-| 3D Viewer | <br>![3DViewer](..\assets\chapter_1_assets\3DViewerPgon.png)<br> |
-| Attribute Table | <br>![Attribute](..\assets\chapter_1_assets\TablePgon.png)<br> |
+| Function | <br>![Function](..\..\assets\chapter_1_assets\FunctionPgon.png) <br> |
+| Console | <br>![Console](..\..\assets\chapter_1_assets\ConsolePgon.png)<br> |
+| 3D Viewer | <br>![3DViewer](..\..\assets\chapter_1_assets\3DViewerPgon.png)<br> |
+| Attribute Table | <br>![Attribute](..\..\assets\chapter_1_assets\TablePgon.png)<br> |
 
 <br>
 ###### Example 3. Printing make.Extrude returns the 5 new polygons that are made.<br><br>
 
 | Feature | Example  |
 | :---: | --- |
-| Function | <br>![Function](..\assets\chapter_1_assets\FunctionEx.png) <br> |
-| Console | <br>![Console](..\assets\chapter_1_assets\ConsoleEx.png)<br> |
-| 3D Viewer | <br>![3DViewer](..\assets\chapter_1_assets\3DViewerEx.png)<br> |
-| Attribute Table | <br>![Attribute](..\assets\chapter_1_assets\TableEx.png)<br> |
+| Function | <br>![Function](..\..\assets\chapter_1_assets\FunctionEx.png) <br> |
+| Console | <br>![Console](..\..\assets\chapter_1_assets\ConsoleEx.png)<br> |
+| 3D Viewer | <br>![3DViewer](..\..\assets\chapter_1_assets\3DViewerEx.png)<br> |
+| Attribute Table | <br>![Attribute](..\..\assets\chapter_1_assets\TableEx.png)<br> |

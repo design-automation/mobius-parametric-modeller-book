@@ -15,7 +15,7 @@ Below is a table of Inline feature categories that are available in Mobius. The 
 
 Unlike the regular functions in Mobius, Inline functions do not create [Procedure Lines](../chapter_1_mobius_interface/procedure_line.md) on their own when used. Instead, they are to be embedded within [variable input boxes](Inputs.md) as [expressions](/chapter_3_procedures/Expression.md).
 
-![](../assets/chapter_3_assets/Inline Functions.jpg)
+![](../../assets/chapter_3_assets/Inline Functions.jpg)
 
 <br>
 

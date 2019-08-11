@@ -26,7 +26,7 @@ Boolean is a data type that has one of two possible values, true or false. Boole
 <br>
 ###### Example of a boolean parameter value being used with the If statement 
 
-![Boolean used with If function](../assets/chapter_3_assets/Boolean1.png)
+![Boolean used with If function](../../assets/chapter_3_assets/Boolean1.png)
 
 If `no_cover` is true, `ex[4]`, the top [polygon](/chapter_2_geo-info_data_model/Polygon.md) of the extrusion, will be deleted; if no_cover is false, the [procedures](/chapter_3_procedures/README.md) in the If statement will not be [executed](/chapter_1_mobius_interface/execute.md/chapter_1_mobius_interface/execute.md)
 

@@ -6,7 +6,6 @@ before_install:
   - sudo apt-get install xvfb
 install:
   - npm install gitbook-plugin-chapter-fold
-  - npm install gitbook-plugin-chapter-headings
   - npm install gitbook-plugin-image-captions
   - npm install gitbook-plugin-fancybox
   - npm install gitbook-plugin-pageload-analytics
