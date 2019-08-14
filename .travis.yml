@@ -11,7 +11,7 @@ install:
   - npm install gitbook-plugin-pageload-analytics
 before_script:
   - npm install gitbook-cli
-  - npm install gitbook-publish@latest
+  - npm install gitbook-publish
   - npm install ebook-convert
   - sudo mv /usr/bin/ebook-convert /usr/bin/ebook-convert2
   - sudo cp ./ebook-wrapper.sh /usr/bin/ebook-convert
